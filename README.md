@@ -1,12 +1,19 @@
 # Stock-managment-App
 Application:
 A stock-management MERN Stack (MongoDB, Express JS, React-Redux, Node JS) web application with the following requirements:
+
 Users should be able to add a new item.
+
 Users should be able to edit an existing item
+
 Users should be able to view all the existing items.
+
 Users should be able to delete any particular item.
+
 Users should be able to check the stock of any particular item.
+
 Users should be able to increment and decrement the stock of any particular item.
+
 Users should be able to view all the details of any particular item.
 -------------------------------------------------------------------------------------------------------------------------------
 
