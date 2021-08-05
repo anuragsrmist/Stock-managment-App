@@ -1,6 +1,6 @@
 # Stock-managment-App
 Application:
-Build a stock-management MERN Stack (MongoDB, Express JS, React-Redux, Node JS) web application with the following requirements:
+A stock-management MERN Stack (MongoDB, Express JS, React-Redux, Node JS) web application with the following requirements:
 Users should be able to add a new item.
 Users should be able to edit an existing item
 Users should be able to view all the existing items.
@@ -11,7 +11,7 @@ Users should be able to view all the details of any particular item.
 -------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------
-Learn about the following technologies:
+Technologies Used:
  REST api
 JSON/XML
 Postman tool
@@ -24,7 +24,7 @@ Mocha for unit tests
 -------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------
-Developer requirements:
+Problem Statements
 Perform all the required CRUD operations
 Create at least one GET request
 Create at least one POST request
@@ -44,11 +44,7 @@ At least one component should have prop validations.
 -------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------
-Instructions:
-The UI of the application should be appealing and easy to use
-The application should justify the area of the problem statement
-Clean and sustainable code will be appreciated. Code should be readable/easily 
-   understandable
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------
