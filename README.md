@@ -19,32 +19,55 @@ Users should be able to view all the details of any particular item.
 
 -------------------------------------------------------------------------------------------------------------------------------
 Technologies Used:
+
  REST api
+ 
 JSON/XML
+
 Postman tool
+
 Version control with git and github
+
 ReactJS, ReduxJS
+
 Express JS
+
 MongoDB
+
 Jest for unit tests
+
 Mocha for unit tests
 -------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------
 Problem Statements
+
 Perform all the required CRUD operations
+
 Create at least one GET request
+
 Create at least one POST request
+
 Create at least on PUT request
+
 Create at least one DELETE request
+
 Use mongoose as the ODM.
+
 At least one request should have query parameters
+
 At least one request should have path parameters
+
 At least one mongoose schema should have a custom index.
+
 At least one component should have Jest snapshot tests.
+
 At least one API should have mocha unit tests.
+
 At least one component should have redux-store accessed props.
+
 At least one component should have hierarchically passed props.
+
 At least one component should have prop validations.
 
 
@@ -56,8 +79,12 @@ At least one component should have prop validations.
 
 -------------------------------------------------------------------------------------------------------------------------------
 Inventory structure:
+
 Item name
+
 Date added on
+
 Current stock
+
 Manufacturing company
 ------------------------------------------------
